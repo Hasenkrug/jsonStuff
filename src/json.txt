@@ -1,0 +1,1 @@
+{"id":1,"sportart":"Fussball","latitude":13.2986,"longitude":52.5139}
