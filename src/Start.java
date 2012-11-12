@@ -59,7 +59,7 @@ public class Start {
       MyJsonRepresentation platz = gson.fromJson(json2, MyJsonRepresentation.class);
 
       // Ausgabe zur Kontrolle
-      System.out.println(""); // now you have a real java object
+      System.out.println("");
       System.out.println("Die ID: " + platz.getId());
       System.out.println("Die Sportart: " + platz.getSportart());
       System.out.println("Longitude: " + platz.getLongitude());
